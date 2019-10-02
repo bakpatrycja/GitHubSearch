@@ -1,0 +1,19 @@
+.container {
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+}
+
+.container__header {
+    font-weight: bold;
+    color: hotpink
+}
+
+.form-container__input--border {
+    border: 1px solid gray;
+    border-radius: 30%;
+}
+
+.table-container {
+    padding: 30px;
+}
