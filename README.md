@@ -27,5 +27,3 @@ $ yarn start
 * Results can be sorted ascending and descending using columns.
 * Amount of records per page is configurable via dropdown.
 * Last search result is cached and displayed after refresh.
-
-
